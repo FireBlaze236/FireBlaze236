@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **saminps3@gmail.com**
 
-- ⚡ Fun fact **std::vector<MyClass> myClass(); //Ahem, a function or a vector?**
+- ⚡ Fun fact **std::vector\<MyClass\> myClass(); //Ahem, a function or a vector?**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fireblaze236&show_icons=true&locale=en&layout=compact" alt="fireblaze236" /></p>
 
