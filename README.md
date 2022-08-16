@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Taufiqul Alam (FireBlaze236)</h1>
-<h3 align="center">Developer Hash : a1e5fa6750e57154425a966effb3403301b0c484cb241748802bb45fb21aaa3c</h3>
-<h3 align="center">adler32 : 35c30631</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fireblaze236&label=Profile%20views&color=0e75b6&style=flat" alt="fireblaze236" /> </p>
 
-- 🔭 I’m currently working on **Blaze Renderer**
+- 🌱 I’m currently learning **Rust, Unreal Engine 5, OpenGL, Vulkan, Shaders**
 
-- 🌱 I’m currently learning **Unity, Unreal Engine 4, OpenGL, Shaders**
-
-- 👯 I’m looking to collaborate on **Any games on Unity/Unreal to learn**
+- 👯 I’m looking to collaborate on **Any games on Unity/Unreal, C++ and Rust Projects**
 
 - 💬 Ask me about **C++, OpenGL, C#, Java**
 
