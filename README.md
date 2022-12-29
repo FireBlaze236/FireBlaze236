@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taufiqul Alam (FireBlaze236)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fireblaze236&label=Profile%20views&color=0e75b6&style=flat" alt="fireblaze236" /> </p>
 
-- 🌱 I’m currently learning **Rust, Unreal Engine 5, OpenGL, Vulkan, Shaders**
-
-- 👯 I’m looking to collaborate on **Any games on Unity/Unreal, C++ and Rust Projects**
-
-- 💬 Ask me about **C++, OpenGL, C#, Java**
-
-- 📫 How to reach me **saminps3@gmail.com**
-
-- ⚡ Fun fact **std::vector\<MyClass\> myClass(); //Ahem, a function or a vector?**
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fireblaze236&show_icons=true&locale=en&layout=compact" alt="fireblaze236" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fireblaze236&show_icons=true&locale=en" alt="fireblaze236" /></p>
